@@ -1,0 +1,4 @@
+cc_library_headers {
+  name: "libcpppromise",
+  export_include_dirs: ["."]
+}
